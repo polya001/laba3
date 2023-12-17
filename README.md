@@ -11,3 +11,9 @@
 
 
 ![](https://github.com/polya001/laba3/blob/main/howdownload.png)
+
+### Запуск кода
+1. запустить файл main.py
+2. можно запускать файлы 1bib.py, 1bib.py, 2bib.py, 3bib.py, 4bib.py
+
+### Описание содержания файлов
