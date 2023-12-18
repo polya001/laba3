@@ -10,7 +10,7 @@
 Нажмите кнопку "Code" в правом верхнем углу. Выпадет меню, в котором нужно выбрать Download ZIP
 
 
-![](https://github.com/polya001/laba3/blob/main/howdownload.png)
+![](https://github.com/polya001/laba3/blob/main/images/howdownload.png)
 
 ### Запуск кода
 В терминале запустите последовательно команды 
