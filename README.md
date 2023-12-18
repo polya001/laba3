@@ -13,6 +13,12 @@
 ![](https://github.com/polya001/laba3/blob/main/howdownload.png)
 
 ### Запуск кода
+В файлах main.py, 2bib.py, 4bib.py для tiny = "Path_to_file_nyc_yellow_tiny.csv"  указать в кавычках путь к файлу nyc_yellow_tiny.csv 
+
+В файле 2bib.py для df_file='Path_to_file\\dbfile.db'  указать в кавычках путь к файлу dbfile.db
+
+В файле 3bib.py для duck_file='Path_to_file\\duck.db'  указать в кавычках путь к файлу duck.db
+
 1. запустить файл main.py
 2. можно запускать файлы 1bib.py, 1bib.py, 2bib.py, 3bib.py, 4bib.py
 
