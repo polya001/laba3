@@ -28,3 +28,4 @@
 Файлы 1bib.py, 2bib.py, 3bib.py, 4bib.py используют библиотеки psycopg2, sqlite3, duckdb, pandas соответственно для выполнения запросов
 
 ### Сравнение скорости выполнения запросов для 4 библиотек
+![](https://github.com/polya001/laba3/blob/main/Сравнение.png)
