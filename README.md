@@ -13,6 +13,18 @@
 ![](https://github.com/polya001/laba3/blob/main/howdownload.png)
 
 ### Запуск кода
+В терминале запустите последовательно команды 
+```BASH
+pip install psycopg2
+
+pip install sqlite3
+
+pip install duckdb
+
+pip install pandas
+
+pip install sqlalchemy
+```
 В файлах main.py, 2bib.py, 4bib.py для tiny = "Path_to_file_nyc_yellow_tiny.csv"  указать в кавычках путь к файлу nyc_yellow_tiny.csv 
 
 В файле 2bib.py для df_file='Path_to_file\\dbfile.db'  указать в кавычках путь к файлу dbfile.db
